@@ -13,6 +13,9 @@
 - [ ] MTP 细节: https://www.zhihu.com/question/7837132971/answer/65842498313
 - [ ] DualPipe: https://zhuanlan.zhihu.com/p/23287346653
 
+## KV Cache Compression
+- [ ] https://zhuanlan.zhihu.com/p/708946312
+- [ ] https://zhuanlan.zhihu.com/p/21106979890
 
 ## CUDA
 - [ ] 上完483记得回来看一眼这个：https://www.zhihu.com/question/26570985/answer/3465784970
