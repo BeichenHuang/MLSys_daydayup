@@ -35,5 +35,7 @@
 
 ## 推荐list
 系统：https://zhuanlan.zhihu.com/p/13621083399
+
 算法：https://zhuanlan.zhihu.com/p/13960662604
+
 大模型加速的学习路线：https://www.zhihu.com/question/591646269/answer/1909169222518567197
