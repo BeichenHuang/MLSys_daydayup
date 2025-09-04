@@ -20,7 +20,7 @@
 ## RoPE
 
 ## vLLM
--[ ] 最基本的paged atten： https://zhuanlan.zhihu.com/p/680153425
+- [ ] 最基本的paged atten： https://zhuanlan.zhihu.com/p/680153425
 
 
 ## SGLang
