@@ -13,20 +13,27 @@
 - [ ] MTP 细节: https://www.zhihu.com/question/7837132971/answer/65842498313
 - [ ] DualPipe: https://zhuanlan.zhihu.com/p/23287346653
 
+## DeepSeed-Megatron MoE 并行训练
+- [ ] https://zhuanlan.zhihu.com/p/681154742
 
 ## CUDA
 - [ ] 上完483记得回来看一眼这个：https://www.zhihu.com/question/26570985/answer/3465784970
+- [ ] 算子合集：https://zhuanlan.zhihu.com/p/12661298743
+- [ ] 算子逻辑：https://zhuanlan.zhihu.com/p/1909996866432668841
   
 ## RoPE
 
 ## vLLM
 - [ ] 最基本的paged atten： https://zhuanlan.zhihu.com/p/680153425
 
+## Distributed Training
+- [ ] https://www.bilibili.com/video/BV1mm42137X8/?vd_source=d8285755e1cedda2d67231b5c076181a
 
 ## SGLang
 
 ## Speculative Decoding
 
-## 一个推荐list
+## 推荐list
 系统：https://zhuanlan.zhihu.com/p/13621083399
 算法：https://zhuanlan.zhihu.com/p/13960662604
+大模型加速的学习路线：https://www.zhihu.com/question/591646269/answer/1909169222518567197
