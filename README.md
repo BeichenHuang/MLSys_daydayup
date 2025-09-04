@@ -10,7 +10,7 @@
 - [x] MLA 总体的介绍: https://zhuanlan.zhihu.com/p/16730036197
 - [ ] MLA 苏神的博客: https://kexue.fm/archives/10091 得再看看推一下公式
 - [ ] MTP 总体介绍: https://zhuanlan.zhihu.com/p/18056041194
-- [ ] MTP 细节: https://www.zhihu.com/question/7837132971/answer/65842498313
+- [ ] DualPipe 细节: https://www.zhihu.com/question/7837132971/answer/65842498313
 - [ ] DualPipe: https://zhuanlan.zhihu.com/p/23287346653
 
 ## KV Cache Compression
