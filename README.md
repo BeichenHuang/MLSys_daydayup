@@ -21,6 +21,11 @@
 - [ ] 上完483记得回来看一眼这个：https://www.zhihu.com/question/26570985/answer/3465784970
 - [ ] 算子合集：https://zhuanlan.zhihu.com/p/12661298743
 - [ ] 算子逻辑：https://zhuanlan.zhihu.com/p/1909996866432668841
+- [ ] cublas实现attention：https://zhuanlan.zhihu.com/p/1947713049097146962
+- [ ] softmax：https://zhuanlan.zhihu.com/p/1949232224663758626
+- [ ] 学习路线：https://www.zhihu.com/question/263832290/answer/88074576627
+
+## Triton
   
 ## RoPE
 
