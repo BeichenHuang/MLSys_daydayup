@@ -26,7 +26,7 @@
 - [ ] 学习路线：https://www.zhihu.com/question/263832290/answer/88074576627
 
 ## Triton
-  
+- [ ] 浅显入门： https://www.zhihu.com/question/622685131/answer/3217107882
 ## RoPE
 
 ## vLLM
