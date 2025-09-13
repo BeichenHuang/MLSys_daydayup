@@ -39,6 +39,7 @@
 
 ## SGLang
 - [ ] 分布式并行：https://zhuanlan.zhihu.com/p/1909915806906713201
+- [ ] PD分离：https://zhuanlan.zhihu.com/p/1921162497592886258
 
 ## Speculative Decoding
 
