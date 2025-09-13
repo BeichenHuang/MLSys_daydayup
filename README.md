@@ -38,6 +38,7 @@
 - [ ] https://zhuanlan.zhihu.com/p/681154742
 
 ## SGLang
+- [ ] 分布式并行：https://zhuanlan.zhihu.com/p/1909915806906713201
 
 ## Speculative Decoding
 
